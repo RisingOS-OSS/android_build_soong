@@ -274,6 +274,9 @@ com\.oplus\..*
 net\.oneplus\..*
 oplus\..*
 
+# LMOFreeform
+com\.libremobileos\..*
+
 # QC adds
 com.qualcomm.qti
 com.quicinc.tcmiface
